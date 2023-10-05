@@ -1,0 +1,41 @@
+* {
+    background: #3a3aff;
+    color: white;
+    font-family: Roboto Mono;
+    font-weight: 300;
+}
+
+body {
+    margin-bottom: 164px;
+}
+
+h1 {
+    // font-weight: 800;
+}
+
+.wrap {
+    max-width: 800px;
+    margin: auto;
+}
+
+a {
+    text-decoration: underline;
+    color: yellow;
+    word-break: break-all;
+}
+
+.section {
+    margin-top: 32px;
+    line-height: 1.5em;
+}
+
+img {
+    max-width: 100%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+iframe {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
